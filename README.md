@@ -1,1 +1,1 @@
-It is a mini game design by using Swift
+A mini game created in Swift for iOS system.
