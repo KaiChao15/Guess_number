@@ -9,9 +9,9 @@ Xcode 10.2.1 or above
 
 ## Simulator Screen Shot
 
-![](testing_image/Simulator Screen Shot - iPhone 8.png)
+![](Number_Lock/testing_image/Simulator Screen Shot - iPhone 8.png)
 
 
 ## Reference
 
-Luck image: Wei Wei, Swift developer  
+Lock image: Wei Wei, Swift developer  
