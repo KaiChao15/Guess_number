@@ -10,7 +10,7 @@ Xcode 10.2.1 or above
 ## Deployment
 
 This is the simulator screenshot running on Xcode 10.2.1
-![github-small](testing_image/Simulator Screen Shot - iPhone 8.png)
+![](testing_image/Simulator Screen Shot - iPhone 8.png)
 
 
 ## Reference
