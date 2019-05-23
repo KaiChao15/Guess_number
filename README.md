@@ -9,7 +9,7 @@ Xcode 10.2.1 or above
 
 ## Simulator Screen Shot
 
-![](Number_Lock/testing_image/Simulator Screen Shot - iPhone 8.png)
+![](testing_image/Simulator%20Screen%20Shot%20-%20iPhone 8.png)
 
 
 ## Reference
